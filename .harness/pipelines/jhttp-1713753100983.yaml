@@ -32,7 +32,7 @@ pipeline:
                   spec:
                     caching: true
                     connectorRef: <+input>
-                    repo: hello/world
+                    repo: baby-Jay/jhttp
                     tags:
                       - latest
                   timeout: ""
